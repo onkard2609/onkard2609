@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Onkar
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can reach out to me at onkarsd2002@gmail.com
 
 <!---
 onkard2609/onkard2609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
